@@ -19,14 +19,14 @@ from aiogram.types import (
 import aiohttp
 import yt_dlp
 
-TOKEN = '8653098410:AAHwizKs_I5ZpsPu7EGTm-rx0uKFi03u1co'
-CHANNEL_ID = '@aeroonex'
-ADMIN_ID = 5064451675
+TOKEN = 'YOUR_BOT_TOKEN'
+CHANNEL_ID = '@yourusername'
+ADMIN_ID = YOU_CHAT_ID
 
 ACR_CONFIG = {
-    'host': 'identify-ap-southeast-1.acrcloud.com',
-    'access_key': '9b8e62b411f5ee17294159ef9e674576',
-    'access_secret': 'lucigoAxfS1wM0gml5BbjWKMrOTSXMW3Ae6fcCmZ',
+    'host': 'YOUR_HOST_NAME.acrcloud.com',
+    'access_key': YOUR_ACCESS_KEY',
+    'access_secret': 'YOUR_ACCESS_SECRET',
     'timeout': 15
 }
 
